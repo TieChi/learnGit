@@ -1,1 +1,2 @@
-index
+index.
+What is git.
